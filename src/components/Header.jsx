@@ -6,7 +6,7 @@ const Header = () => {
       <div>
         <img className="w-80 lg:w-auto" src={logo} alt="" />
       </div>
-      <div>
+      <div className="text-center">
         <h1 className="text-gray-600 font-bold">
           Journalism Without Fear or Favour
         </h1>
